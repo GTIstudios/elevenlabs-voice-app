@@ -1,0 +1,5 @@
+requests
+PySimpleGUI>=5.0.10
+requests>=2.31
+
+
